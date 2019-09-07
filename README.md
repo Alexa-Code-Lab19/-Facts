@@ -1,4 +1,4 @@
-# Mangalyaan-Facts-Hindi
+# मंगलयान Facts
 Mangalyaan facts is an Alexa Skill in Hindi which tells all the facts about mangalyaan.
 
 ## Privacy Policy Link
